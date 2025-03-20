@@ -15,7 +15,6 @@ public class Day7s1 {
                 // Satır numarası, bir boşluk ve satır içeriğini yazdır
                 System.out.println(lineNumber + " " + line);
                 
-                // Satır numarasını artır
                 lineNumber++;
             }
         } finally {
